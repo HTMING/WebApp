@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="868bf3e3-e1be-4f41-ad39-b756a5e1e060" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/WebApp.iml" afterPath="$PROJECT_DIR$/.idea/WebApp.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app.py" afterPath="$PROJECT_DIR$/www/app.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/models.py" afterPath="$PROJECT_DIR$/www/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/orm.py" afterPath="$PROJECT_DIR$/www/orm.py" />
     </list>
     <ignored path="WebApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -546,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1469033685864</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finish models.py">
+      <created>1469098578905</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1469098578905</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -588,7 +588,8 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <MESSAGE value="finish orm" />
     <MESSAGE value="models.py first step" />
-    <option name="LAST_COMMIT_MESSAGE" value="models.py first step" />
+    <MESSAGE value="finish models.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish models.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
